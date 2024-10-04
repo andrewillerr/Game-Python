@@ -1,7 +1,7 @@
 
 ## Running Tests
 
-ติดตั้ง Pygame: หากยังไม่ได้ติดตั้ง pygame ให้ใช้คำสั่งต่อไปนี้ใน Command Prompt หรือ Terminal
+Install Pygame: In Command Prompt or Terminal
 
 ```bash
   pip install pygame
